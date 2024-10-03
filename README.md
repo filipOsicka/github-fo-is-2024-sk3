@@ -2,4 +2,6 @@
 
 Autor: Filip Osička. Repozitář pro předmět IS-2024.
 
-První změna 3.10. 2024
+## Změna na lokále.
+Datum změny 2024-10-02, Čas: 16:31
+Už se těším domů :)
