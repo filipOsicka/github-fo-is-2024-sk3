@@ -2,25 +2,44 @@
 while(again == "a") {
 
             Console.Clear();
-            Console.WriteLine("****************************");
-            Console.WriteLine("**** Výpis číselné řady ****");
-            Console.WriteLine("******* Tomáš Žižka ********");
-            Console.WriteLine("****************************");
+            Console.WriteLine("*******************************");
+            Console.WriteLine("**** Součet a součin cifer ****");
+            Console.WriteLine("******** Filip Osička *********");
+            Console.WriteLine("*******************************");
             Console.WriteLine();
             Console.WriteLine();
 
             Console.Write("Zadejte číslo (celé číslo): ");
-            int first;
-            while(!int.TryParse(Console.ReadLine(), out first)) {
+            int number;
+            while(!int.TryParse(Console.ReadLine(), out number)) {
                 Console.Write("Nezadali jste celé číslo. Zadejte první číslo znovu: ");
             }
 
             Console.WriteLine();
             Console.WriteLine("========================================================");
             Console.WriteLine("Zadané hodnoty: ");
-            Console.WriteLine("číslo: {0}", first);
+            Console.WriteLine("číslo: {0}", number);
             Console.WriteLine("========================================================");
           
+            int suma = 0;
+            int numberBackup = number;
+            int digit;
+
+            if(number < 0){
+                number = -number;
+            }
+            
+            while(number >= 10) {
+            digit = number % 10;
+            number = (number-digit)/10;
+            Console.WriteLine("Aktuální zbytek = {0}", digit);
+            suma = suma + digit;
+            }
+            
+            Console.WriteLine("Aktuální zbytek = {0}", number);
+            suma = suma + number;
+
+            Console.WriteLine("\n\nSoučet cifer čísla {0} je {1}", numberBackup, suma);
 
             Console.WriteLine();
             Console.WriteLine();
