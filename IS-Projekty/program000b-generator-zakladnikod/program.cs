@@ -1,5 +1,3 @@
-﻿using System.Text.Json.Serialization;
-
 string again = "a";
 while (again == "a")
 {
@@ -45,34 +43,12 @@ while (again == "a")
     //Příprava pro generátor náhodných čísel
     Random randomNumber = new Random();
 
-    int kladna = 0;
-    int zaporna = 0;
-    int nula = 0;
+
     for (int i = 0; i < n; i++)
     {
         myArray[i] = randomNumber.Next(dm, hm+1);
         Console.Write("{0}; ", myArray[i]);
-       
-        // if (myArray[i] > 0)
-        //     kladna++;
-        
-        // if (myArray[i] < 0)
-        //     zaporna++;
-        
-        // if (myArray[i] == 0)
-        //     nula++;
-
-        if(myArray[i] > 0)
-            kladna++;
-        else if(myArray[i] < 0)
-            zaporna++;
-        else
-            nula++;
     }
-
-    Console.WriteLine("\n\nPočet kladných čísel: {0}", kladna);
-    Console.WriteLine("Počet Záporných čísel: {0}", zaporna);
-    Console.WriteLine("Počet nul: {0}", nula);
 
 
     Console.WriteLine();
