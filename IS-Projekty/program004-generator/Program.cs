@@ -48,6 +48,10 @@ while (again == "a")
     int kladna = 0;
     int zaporna = 0;
     int nula = 0;
+
+    int suda = 0;
+    int licha = 0;
+
     for (int i = 0; i < n; i++)
     {
         myArray[i] = randomNumber.Next(dm, hm+1);
@@ -68,11 +72,20 @@ while (again == "a")
             zaporna++;
         else
             nula++;
+
+        if(myArray[i]  % 2 == 0)
+            suda++;
+        else
+            licha++;
     }
 
     Console.WriteLine("\n\nPočet kladných čísel: {0}", kladna);
     Console.WriteLine("Počet Záporných čísel: {0}", zaporna);
     Console.WriteLine("Počet nul: {0}", nula);
+
+    Console.WriteLine("\n\nPočet sudých čísel: {0}", suda);
+    Console.WriteLine("Počet lichých čísel: {0}", licha);
+    
 
 
     Console.WriteLine();
