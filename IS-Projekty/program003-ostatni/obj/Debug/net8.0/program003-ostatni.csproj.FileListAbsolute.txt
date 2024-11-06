@@ -1,0 +1,15 @@
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program003-ostatni\bin\Debug\net8.0\program003-ostatni.exe
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program003-ostatni\bin\Debug\net8.0\program003-ostatni.deps.json
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program003-ostatni\bin\Debug\net8.0\program003-ostatni.runtimeconfig.json
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program003-ostatni\bin\Debug\net8.0\program003-ostatni.dll
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program003-ostatni\bin\Debug\net8.0\program003-ostatni.pdb
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program003-ostatni\obj\Debug\net8.0\program003-ostatni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program003-ostatni\obj\Debug\net8.0\program003-ostatni.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program003-ostatni\obj\Debug\net8.0\program003-ostatni.AssemblyInfo.cs
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program003-ostatni\obj\Debug\net8.0\program003-ostatni.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program003-ostatni\obj\Debug\net8.0\program003-ostatni.sourcelink.json
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program003-ostatni\obj\Debug\net8.0\program003-ostatni.dll
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program003-ostatni\obj\Debug\net8.0\refint\program003-ostatni.dll
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program003-ostatni\obj\Debug\net8.0\program003-ostatni.pdb
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program003-ostatni\obj\Debug\net8.0\program003-ostatni.genruntimeconfig.cache
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program003-ostatni\obj\Debug\net8.0\ref\program003-ostatni.dll
