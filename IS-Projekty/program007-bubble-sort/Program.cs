@@ -4,11 +4,11 @@ using System.Diagnostics;
 string again = "a";
         while(again == "a") {
             //Console.Clear();
-            Console.WriteLine("***************************");
-            Console.WriteLine("******* Bubble sort *******");
-            Console.WriteLine("***************************");
-            Console.WriteLine("****** Filip Osička *******");
-            Console.WriteLine("***************************\n\n");
+            Console.WriteLine("****************************");
+            Console.WriteLine("******* Bubble sort ********");
+            Console.WriteLine("****************************");
+            Console.WriteLine("****** Filip Osička ********");
+            Console.WriteLine("****************************\n\n");
             Console.WriteLine();
 
             
