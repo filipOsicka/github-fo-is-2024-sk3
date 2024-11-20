@@ -1,0 +1,15 @@
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008-ostatni-sort\bin\Debug\net9.0\program008-ostatni-sort.exe
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008-ostatni-sort\bin\Debug\net9.0\program008-ostatni-sort.deps.json
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008-ostatni-sort\bin\Debug\net9.0\program008-ostatni-sort.runtimeconfig.json
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008-ostatni-sort\bin\Debug\net9.0\program008-ostatni-sort.dll
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008-ostatni-sort\bin\Debug\net9.0\program008-ostatni-sort.pdb
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008-ostatni-sort\obj\Debug\net9.0\program008-ostatni-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008-ostatni-sort\obj\Debug\net9.0\program008-ostatni-sort.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008-ostatni-sort\obj\Debug\net9.0\program008-ostatni-sort.AssemblyInfo.cs
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008-ostatni-sort\obj\Debug\net9.0\program008-ostatni-sort.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008-ostatni-sort\obj\Debug\net9.0\program008-ostatni-sort.sourcelink.json
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008-ostatni-sort\obj\Debug\net9.0\program008-ostatni-sort.dll
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008-ostatni-sort\obj\Debug\net9.0\refint\program008-ostatni-sort.dll
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008-ostatni-sort\obj\Debug\net9.0\program008-ostatni-sort.pdb
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008-ostatni-sort\obj\Debug\net9.0\program008-ostatni-sort.genruntimeconfig.cache
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008-ostatni-sort\obj\Debug\net9.0\ref\program008-ostatni-sort.dll
