@@ -7,7 +7,7 @@ string again = "a";
 while(again == "a") {
     //Console.Clear();
     Console.WriteLine("****************************");
-    Console.WriteLine("****** Selection sort ******");
+    Console.WriteLine("****** Insertion sort ******");
     Console.WriteLine("****************************");
     Console.WriteLine("****** Filip Osička ********");
     Console.WriteLine("****************************\n\n");
