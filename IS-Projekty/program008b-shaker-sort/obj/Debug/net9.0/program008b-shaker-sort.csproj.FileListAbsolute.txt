@@ -1,0 +1,15 @@
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008b-shaker-sort\bin\Debug\net9.0\program008b-shaker-sort.exe
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008b-shaker-sort\bin\Debug\net9.0\program008b-shaker-sort.deps.json
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008b-shaker-sort\bin\Debug\net9.0\program008b-shaker-sort.runtimeconfig.json
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008b-shaker-sort\bin\Debug\net9.0\program008b-shaker-sort.dll
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008b-shaker-sort\bin\Debug\net9.0\program008b-shaker-sort.pdb
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008b-shaker-sort\obj\Debug\net9.0\program008b-shaker-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008b-shaker-sort\obj\Debug\net9.0\program008b-shaker-sort.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008b-shaker-sort\obj\Debug\net9.0\program008b-shaker-sort.AssemblyInfo.cs
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008b-shaker-sort\obj\Debug\net9.0\program008b-shaker-sort.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008b-shaker-sort\obj\Debug\net9.0\program008b-shaker-sort.sourcelink.json
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008b-shaker-sort\obj\Debug\net9.0\program008b-shaker-sort.dll
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008b-shaker-sort\obj\Debug\net9.0\refint\program008b-shaker-sort.dll
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008b-shaker-sort\obj\Debug\net9.0\program008b-shaker-sort.pdb
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008b-shaker-sort\obj\Debug\net9.0\program008b-shaker-sort.genruntimeconfig.cache
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008b-shaker-sort\obj\Debug\net9.0\ref\program008b-shaker-sort.dll
