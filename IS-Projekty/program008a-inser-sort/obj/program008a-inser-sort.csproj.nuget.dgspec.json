@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Filip\\Desktop\\IS-2024\\github-fo-is-2024-sk3\\IS-Projekty\\program008a-insertion-sort\\program008a-insertion-sort.csproj": {}
+    "C:\\Users\\Filip\\Desktop\\IS-2024\\github-fo-is-2024-sk3\\IS-Projekty\\program008a-inser-sort\\program008a-inser-sort.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Filip\\Desktop\\IS-2024\\github-fo-is-2024-sk3\\IS-Projekty\\program008a-insertion-sort\\program008a-insertion-sort.csproj": {
+    "C:\\Users\\Filip\\Desktop\\IS-2024\\github-fo-is-2024-sk3\\IS-Projekty\\program008a-inser-sort\\program008a-inser-sort.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Filip\\Desktop\\IS-2024\\github-fo-is-2024-sk3\\IS-Projekty\\program008a-insertion-sort\\program008a-insertion-sort.csproj",
-        "projectName": "program008a-insertion-sort",
-        "projectPath": "C:\\Users\\Filip\\Desktop\\IS-2024\\github-fo-is-2024-sk3\\IS-Projekty\\program008a-insertion-sort\\program008a-insertion-sort.csproj",
+        "projectUniqueName": "C:\\Users\\Filip\\Desktop\\IS-2024\\github-fo-is-2024-sk3\\IS-Projekty\\program008a-inser-sort\\program008a-inser-sort.csproj",
+        "projectName": "program008a-inser-sort",
+        "projectPath": "C:\\Users\\Filip\\Desktop\\IS-2024\\github-fo-is-2024-sk3\\IS-Projekty\\program008a-inser-sort\\program008a-inser-sort.csproj",
         "packagesPath": "C:\\Users\\Filip\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Filip\\Desktop\\IS-2024\\github-fo-is-2024-sk3\\IS-Projekty\\program008a-insertion-sort\\obj\\",
+        "outputPath": "C:\\Users\\Filip\\Desktop\\IS-2024\\github-fo-is-2024-sk3\\IS-Projekty\\program008a-inser-sort\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Filip\\AppData\\Roaming\\NuGet\\NuGet.Config"

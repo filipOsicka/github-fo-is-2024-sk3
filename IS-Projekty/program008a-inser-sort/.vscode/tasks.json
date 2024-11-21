@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/program008a-insertion-sort.sln",
+                "${workspaceFolder}/program008a-inser-sort.sln",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -19,7 +19,7 @@
             "type": "process",
             "args": [
                 "publish",
-                "${workspaceFolder}/program008a-insertion-sort.sln",
+                "${workspaceFolder}/program008a-inser-sort.sln",
                 "/property:GenerateFullPaths=true",
                 "/consoleloggerparameters:NoSummary;ForceNoAlign"
             ],
@@ -33,7 +33,7 @@
                 "watch",
                 "run",
                 "--project",
-                "${workspaceFolder}/program008a-insertion-sort.sln"
+                "${workspaceFolder}/program008a-inser-sort.sln"
             ],
             "problemMatcher": "$msCompile"
         }
