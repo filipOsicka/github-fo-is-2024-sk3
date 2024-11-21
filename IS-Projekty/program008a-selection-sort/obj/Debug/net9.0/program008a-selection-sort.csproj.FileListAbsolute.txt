@@ -1,0 +1,15 @@
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008a-selection-sort\bin\Debug\net9.0\program008a-selection-sort.exe
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008a-selection-sort\bin\Debug\net9.0\program008a-selection-sort.deps.json
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008a-selection-sort\bin\Debug\net9.0\program008a-selection-sort.runtimeconfig.json
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008a-selection-sort\bin\Debug\net9.0\program008a-selection-sort.dll
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008a-selection-sort\bin\Debug\net9.0\program008a-selection-sort.pdb
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008a-selection-sort\obj\Debug\net9.0\program008a-selection-sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008a-selection-sort\obj\Debug\net9.0\program008a-selection-sort.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008a-selection-sort\obj\Debug\net9.0\program008a-selection-sort.AssemblyInfo.cs
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008a-selection-sort\obj\Debug\net9.0\program008a-selection-sort.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008a-selection-sort\obj\Debug\net9.0\program008a-selection-sort.sourcelink.json
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008a-selection-sort\obj\Debug\net9.0\program008a-selection-sort.dll
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008a-selection-sort\obj\Debug\net9.0\refint\program008a-selection-sort.dll
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008a-selection-sort\obj\Debug\net9.0\program008a-selection-sort.pdb
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008a-selection-sort\obj\Debug\net9.0\program008a-selection-sort.genruntimeconfig.cache
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program008a-selection-sort\obj\Debug\net9.0\ref\program008a-selection-sort.dll
