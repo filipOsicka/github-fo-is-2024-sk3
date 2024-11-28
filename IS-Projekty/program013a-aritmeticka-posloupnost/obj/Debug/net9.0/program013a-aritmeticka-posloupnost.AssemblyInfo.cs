@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("program013a-aritmeticka-posloupnost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e36481407113980cd3cbd033cf4b7aebf49bfd6d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f8faa31d89f7f28a7e9498766344662fb63054dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("program013a-aritmeticka-posloupnost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("program013a-aritmeticka-posloupnost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
