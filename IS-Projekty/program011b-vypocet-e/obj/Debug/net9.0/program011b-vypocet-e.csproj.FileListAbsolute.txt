@@ -1,0 +1,15 @@
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program011b-vypocet-e\bin\Debug\net9.0\program011b-vypocet-e.exe
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program011b-vypocet-e\bin\Debug\net9.0\program011b-vypocet-e.deps.json
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program011b-vypocet-e\bin\Debug\net9.0\program011b-vypocet-e.runtimeconfig.json
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program011b-vypocet-e\bin\Debug\net9.0\program011b-vypocet-e.dll
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program011b-vypocet-e\bin\Debug\net9.0\program011b-vypocet-e.pdb
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program011b-vypocet-e\obj\Debug\net9.0\program011b-vypocet-e.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program011b-vypocet-e\obj\Debug\net9.0\program011b-vypocet-e.AssemblyInfoInputs.cache
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program011b-vypocet-e\obj\Debug\net9.0\program011b-vypocet-e.AssemblyInfo.cs
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program011b-vypocet-e\obj\Debug\net9.0\program011b-vypocet-e.csproj.CoreCompileInputs.cache
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program011b-vypocet-e\obj\Debug\net9.0\program011b-vypocet-e.sourcelink.json
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program011b-vypocet-e\obj\Debug\net9.0\program011b-vypocet-e.dll
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program011b-vypocet-e\obj\Debug\net9.0\refint\program011b-vypocet-e.dll
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program011b-vypocet-e\obj\Debug\net9.0\program011b-vypocet-e.pdb
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program011b-vypocet-e\obj\Debug\net9.0\program011b-vypocet-e.genruntimeconfig.cache
+C:\Users\Filip\Desktop\IS-2024\github-fo-is-2024-sk3\IS-Projekty\program011b-vypocet-e\obj\Debug\net9.0\ref\program011b-vypocet-e.dll
